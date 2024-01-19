@@ -19,3 +19,8 @@ The data is sourced from the New York City taxi trip dataset stored in a Clickho
 - **Apache Airflow:** Orchestrates the ETL pipeline, scheduling and executing tasks.
 - **SQL:** Used for querying data from Clickhouse and defining data manipulations.
 - **DAG (Directed Acyclic Graph):** Represents the workflow of the ETL pipeline.
+
+## Data Model
+The data model includes a table in the SQLite database with columns representing the monthly metrics for both Saturdays and Sundays.
+![Data Model](https://github.com/kingsley-123/Weekend-Taxis-Rides-Metrics-Pipeline/assets/63650573/49bf1fd7-d4b5-4658-a041-beb97502b42b)
+
