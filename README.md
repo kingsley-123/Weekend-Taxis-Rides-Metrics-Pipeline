@@ -26,4 +26,4 @@ The data model includes a table in the SQLite database with columns representing
 
 ## SQL Query
 SQL Query for fetching weekend taxi ride metrics
-![SQL DB and Table](https://github.com/kingsley-123/Weekend-Taxis-Rides-Metrics-Pipeline/assets/63650573/5482b6a4-a529-4779-9805-c9e3b4e95ab7)
+[![SQL DB and Table](https://github.com/kingsley-123/Weekend-Taxis-Rides-Metrics-Pipeline/assets/63650573/5482b6a4-a529-4779-9805-c9e3b4e95ab7)](https://github.com/kingsley-123/Weekend-Taxis-Rides-Metrics-Pipeline/issues/3#issue-2091450706)https://github.com/kingsley-123/Weekend-Taxis-Rides-Metrics-Pipeline/issues/3#issue-2091450706
