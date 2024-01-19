@@ -28,3 +28,6 @@ The data model includes a table in the SQLite database with columns representing
 SQL Query for fetching weekend taxi ride metrics
 ![SQL Transform](https://github.com/kingsley-123/Weekend-Taxis-Rides-Metrics-Pipeline/assets/63650573/a8969ecd-c32c-4013-b644-13584c7e9b36)
 
+## Apache Airflow DAG
+The Apache Airflow DAG file defines the workflow for fetching, transforming, and loading the weekend taxi ride metrics into the SQLite database.
+![Airflow](https://github.com/kingsley-123/Weekend-Taxis-Rides-Metrics-Pipeline/assets/63650573/33745851-ed31-4175-9986-47e7ee013046)
