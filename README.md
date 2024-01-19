@@ -32,6 +32,9 @@ SQL Query for fetching weekend taxi ride metrics
 The Apache Airflow DAG file defines the workflow for fetching, transforming, and loading the weekend taxi ride metrics into the SQLite database.
 ![Airflow](https://github.com/kingsley-123/Weekend-Taxis-Rides-Metrics-Pipeline/assets/63650573/33745851-ed31-4175-9986-47e7ee013046)
 
+## View Table
+![Screenshot (17)](https://github.com/kingsley-123/Weekend-Taxis-Rides-Metrics-Pipeline/assets/63650573/4714cc03-b84c-4f28-a691-b7321c1bad56)
+
 ## Development Setup
 To set up and run the ETL pipeline locally, follow these steps:
 - Ensure you have Clickhouse, SQLite, and Apache Airflow installed.
